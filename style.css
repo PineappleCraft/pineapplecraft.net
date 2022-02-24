@@ -82,6 +82,13 @@ body {
     color: var(--bgColor);
 }
 
+.dean.d-element {
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+    content: url(images/element-grey-tiny.png);
+}
+
 #hashtag {
     position: relative;
     padding-bottom: 20px;
